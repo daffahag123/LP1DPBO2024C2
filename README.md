@@ -23,6 +23,7 @@ Setiap anggota DPR memiliki data diri berupa ID, Nama, Bidang, Partai, dan Foto 
 4. Masukkan query 4 untuk menampilkan data
 
 *Tampil hasil tambah data
+
 ![tambah-tampil](https://github.com/daffahag123/LP1DPBO2024C2/assets/135239333/3d6a515e-6ee7-419f-bf5e-aa2fec0ed019)
 
 
