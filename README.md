@@ -8,6 +8,6 @@ Program ini bertujuan untuk menampilkan informasi daftar anggota DPR dan memilik
 Setiap anggota DPR memiliki data diri berupa ID, Nama, Bidang, Partai, dan Foto Profil (khusus untuk bahasa PHP).
 
 # DOKUMENTASI PROGRAM
-
+![WhatsApp Image 2024-02-13 at 11 33 13](https://github.com/daffahag123/LP1DPBO2024C2/assets/135239333/f2cddd31-2d0f-49ce-8e8b-bafb6a5df77d)
 
 
