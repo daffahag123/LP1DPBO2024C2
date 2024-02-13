@@ -9,10 +9,12 @@ Setiap anggota DPR memiliki data diri berupa ID, Nama, Bidang, Partai, dan Foto 
 
 # DOKUMENTASI PROGRAM
 1. Masukkan query 1 untuk menambah data, lalu tampilkan (untuk melihat datanya masuk)
-![tambah](https://github.com/daffahag123/LP1DPBO2024C2/assets/135239333/e407087a-19df-4eab-9612-341268497fbb)
-![tambah-tampil](https://github.com/daffahag123/LP1DPBO2024C2/assets/135239333/8027a2da-d01e-4cc8-a494-1a6451343c4a)
+
+![tambah](https://github.com/daffahag123/LP1DPBO2024C2/assets/135239333/954b5fe2-b716-4025-86bc-e6e827150330)
+![tambah-tampil](https://github.com/daffahag123/LP1DPBO2024C2/assets/135239333/af7b463d-077d-4c09-b34d-d8afad275810)
 
 2. Masukkan query 2 untuk mengubah data, lalu tampilkan (untuk melihat perubahannya)
+   
 ![ubah](https://github.com/daffahag123/LP1DPBO2024C2/assets/135239333/1eee4943-97f8-4a27-97b3-c53ae794fd3a)
 ![ubah-tampil](https://github.com/daffahag123/LP1DPBO2024C2/assets/135239333/f6b56bb6-2697-4dc7-9b7a-81073a227a34)
 
