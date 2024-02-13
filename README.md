@@ -10,7 +10,7 @@ Setiap anggota DPR memiliki data diri berupa ID, Nama, Bidang, Partai, dan Foto 
 # ALUR PROGRAM
 1. Menampilkan menu query dengan pilihan tambah data, ubah data, hapus data, tampil data, dan keluar dari program
 2. User diminta untuk input nomor query yang tersedia
-3. Setelah memilih query, user diminta untuk mengisi data sesuai query yang dipilih
+3. User diminta untuk mengisi data sesuai query yang dipilih
    
 # DOKUMENTASI PROGRAM
 1. Masukkan query 1 untuk menambah data
