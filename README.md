@@ -7,6 +7,11 @@ Dalam tugas ini, saya membuat program yang didasarkan pada OOP dengan menggunaka
 Program ini bertujuan untuk menampilkan informasi daftar anggota DPR dan memiliki fitur menambah, mengubah, menghapus data. 
 Setiap anggota DPR memiliki data diri berupa ID, Nama, Bidang, Partai, dan Foto Profil (khusus untuk bahasa PHP).
 
+# ALUR PROGRAM
+1. Menampilkan menu query dengan pilihan tambah data, ubah data, hapus data, tampil data, dan keluar dari program
+2. User diminta untuk input nomor query yang tersedia
+3. Setelah memilih query, user diminta untuk mengisi data sesuai query yang dipilih
+   
 # DOKUMENTASI PROGRAM
 1. Masukkan query 1 untuk menambah data
 
